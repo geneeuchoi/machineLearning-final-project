@@ -93,4 +93,4 @@
 | 전인섭 | 손단하 | 최보미 | 최유진 |
 |:------:|:------:|:------:|:------:|
 | 동대문구 카페 및 법인 데이터 수집, 유동인구 데이터 전처리, 유동인구 DBSCAN 및 시각화 | 정량자료 수집, 최적입지 선정, 발표 | DBSCAN 결과 전체 시각화, 최적입지 선정 | 카페 및 법인 데이터 전처리, 카페 및 법인 데이터 DBSCAN 및 시각화
-| [GitHub](https://github.com/) | [GitHub](https://github.com/) | [GitHub](https://github.com/bona641) | [GitHub](https://github.com/geneeuchoi) |
+| [GitHub](https://github.com/) | [GitHub](https://github.com/Sondanha) | [GitHub](https://github.com/bona641) | [GitHub](https://github.com/geneeuchoi) |
